@@ -3,7 +3,7 @@
 > Landing page template for iOS apps
 
 <a href="https://sindresorhus.com/ios-landing-page/">
-	<img src="https://github.com/domunlocked/dvpn22.com/blob/main/111111111111111111111111.PNG?raw=true" width="1277">
+	<img src="https://github.com/domunlocked/domunlocked.1github.io/blob/main/111111111111111111111111.PNG?raw=true" width="1277">
 </a>
 
 
